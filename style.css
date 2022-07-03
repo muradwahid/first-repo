@@ -1,0 +1,23 @@
+.main{
+    display: flex;
+}
+h1{
+    color:rgb(16, 16, 236);
+    text-align: center;
+    text-decoration: underline;
+}
+.blog{
+    width: 30%;
+    background-color: blue;
+    color:white;
+    border: 3px solid yellowgreen;
+    border-radius: 5px;
+    margin-left: 14px;
+}
+.blog>h3{
+    text-align: center;
+}
+.blog{
+    padding: 10px;
+    text-align: justify;
+}
